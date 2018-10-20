@@ -2,9 +2,8 @@
 
 ### Day 0: October 20, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished chapter 1 of Learn Go with Tests.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Not feeling well today because of the fever, but I managed to finish the first chapter. Things should get better by monday.
+**Link to work:** [Learn Go With Tests](https://github.com/mukulrawat1986/TestingGo)
 
