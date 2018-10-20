@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: October 20, 2018
+### Day 1: October 20, 2018
 
 **Today's Progress**: Finished chapter 1 of Learn Go with Tests.
 
