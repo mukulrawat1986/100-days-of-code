@@ -8,3 +8,10 @@
 
 **Link to work:** [Learn Go With Tests](https://github.com/mukulrawat1986/TestingGo)
 
+### Day 2: October 21, 2018
+
+**Today's Progress**: Finished chapter 2 and 3 of Learn Go with Tests.
+
+**Thoughts:** Last boring day, things should go better from monday
+
+**Link to work:** [Learn Go With Tests](https://github.com/mukulrawat1986/TestingGo)
