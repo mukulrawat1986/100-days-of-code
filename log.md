@@ -15,3 +15,14 @@
 **Thoughts:** Last boring day, things should go better from monday
 
 **Link to work:** [Learn Go With Tests](https://github.com/mukulrawat1986/TestingGo)
+
+### Day 3: October 22, 2018
+
+**Today's Progress**: Finished chapter 4,5 and 6 of Learn Go with Tests. I also started working on the SharedActors command line app, should be finished by tomorrow.
+
+**Thoughts:** I can code for longer than this. Way longer.
+
+**Link to work:** 
+1. [Learn Go With Tests](https://github.com/mukulrawat1986/TestingGo)
+
+2. [Shared Actors command line app](https://github.com/mukulrawat1986/SharedActors)
